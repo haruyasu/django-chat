@@ -1,1 +1,4 @@
+# pip3 install -r requirements.txt
 Django~=2.2.10
+channels~=2.4.0
+channels_redis~=2.4.2
